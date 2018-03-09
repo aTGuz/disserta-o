@@ -1,2 +1,2 @@
-# disserta-o
+# dissertação
 Dissertação de mestrado
